@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://htetmyarkaung.com"><img src="https://img.shields.io/badge/Portfolio-htetmyarkaung.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/htet-myark-aung"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:htetmyark@gmail.com"><img src="https://img.shields.io/badge/Email-htetmyark%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Htet-Myark&style=for-the-badge&color=36BCF7&label=Profile+Views" />
 </p>
@@ -20,7 +20,6 @@
 
 - 🎓 Diploma in IT (Software Development), **Singapore Polytechnic**, GPA 3.60, with a Data & Analytics specialisation
 - 🤖 RPA Developer Intern at **PSA Corporation** (Apr 2025 to Feb 2026): UiPath and Power Automate workflows, UAT, Katalon test automation, L1 helpdesk
-- 🏆 Winner of PSA's **In-House Innovation Idea Award**
 - 🧠 Currently building agentic and RAG-based AI systems
 - 📚 Working towards **AWS Solutions Architect Associate**
 - 📍 Singapore, open to software engineering, AI, automation, QA and cloud roles
