@@ -20,7 +20,7 @@
 - 🎓 Diploma in IT (Software Development), **Singapore Polytechnic**, GPA 3.60, with a Data & Analytics specialisation
 - 🤖 RPA Developer Intern at **PSA Corporation** (Apr 2025 to Feb 2026): UiPath and Power Automate workflows, UAT, Katalon test automation, L1 helpdesk
 - 🧠 Currently building agentic and RAG-based AI systems
-- 📚 Working towards **AWS Solutions Architect Associate**
+- 📚 Certified AWS Solutions Architect Associate 
 - 📍 Singapore, open to software engineering, AI, automation, QA and cloud roles
 
 ---
