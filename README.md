@@ -1,99 +1,66 @@
-<!-- Banner -->
+<h1 align="center">Hi, I'm Htet Myark 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fresh+IT+graduate+from+Singapore+Polytechnic;RPA+Developer+%7C+AI+Systems+Builder;AWS+Certified+Cloud+Practitioner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Solution+Architect+Associate;Cloud+%26+System+Design;Integration+%26+Modernization;Security+%26+Scalability" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Htet-Myark" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://htetmyarkaung.com"><img src="https://img.shields.io/badge/Portfolio-htetmyarkaung.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/htet-myark-aung"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:htetmyark@gmail.com"><img src="https://img.shields.io/badge/Email-htetmyark%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Htet-Myark&style=for-the-badge&color=36BCF7&label=Profile+Views" />
-</p>
+## About Me
 
----
+I am a Solution Architect Associate passionate about designing scalable, secure, and efficient technology solutions. My focus is on architecture, system integration, modernization, and enabling business transformation through innovative digital solutions.
 
-## 👋 About Me
+- Solution architecture and design
+- Cloud and enterprise systems
+- Integration and modernization
+- Security, scalability, and performance
+- Technology strategy and implementation support
 
-- 🎓 Diploma in IT (Software Development), **Singapore Polytechnic**, GPA 3.60, with a Data & Analytics specialisation
-- 🤖 RPA Developer Intern at **PSA Corporation** (Apr 2025 to Feb 2026): UiPath and Power Automate workflows, UAT, Katalon test automation, L1 helpdesk
-- 🧠 Currently building agentic and RAG-based AI systems
-- 📚 Working towards **AWS Solutions Architect Associate**
-- 📍 Singapore, open to software engineering, AI, automation, QA and cloud roles
+## Core Competencies
 
----
+- Business and technical solution design
+- Cloud-based architecture
+- Application and system integration
+- Stakeholder communication and technical guidance
+- Modernization of legacy systems
+- Scalability and performance optimization
 
-## 🛠️ Tech Stack
+## Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,threejs,nodejs,express&perline=10" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,azure,vercel,git,github,vscode,postman&perline=10" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Katalon-2F6DB5?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white" />
-</p>
+## Current Focus
 
----
+I am continuously learning and building expertise in:
 
-## 🚀 Featured Projects
+- Modern architecture patterns
+- Cloud-native design
+- Secure and resilient system design
+- Technology-driven business transformation
 
-| Project | What it is | Built with |
-|---|---|---|
-| 🎮 **EduPlayground** | Built solo in 3 days for the 2026 Microsoft AI Hackathon (Creative App) | React, Three.js, Node/Express, Azure AI Foundry, WebSockets, MCP |
-| 💬 **RAG Chatbot** | Live on my portfolio site, used by real visitors | Gemini API, PostgreSQL, pgvector |
-| ☁️ **AWS Bedrock Chatbot** | Serverless chatbot with cost controls and content guardrails | Amazon Nova Lite, Lambda, API Gateway, Python |
-| 📚 **Sar Kyi Tite** | Library management system | React, Node/Express, MongoDB |
-| 🔗 **Shrtner** | URL shortener with an auto-scaling short-code system | PostgreSQL, Vercel |
+## Connect With Me
 
----
-
-## 📜 Certifications
+- LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- Email: your.email@example.com
+- GitHub: https://github.com/Htet-Myark
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google-AI%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCS-AI%20Ethics%20%26%20Governance-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20(in%20progress)-555555?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Htet-Myark&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Htet-Myark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htet-Myark&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Htet-Myark&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Htet-Myark&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Htet-Myark/Htet-Myark/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Htet-Myark/Htet-Myark/output/github-snake.svg" />
-  </picture>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
