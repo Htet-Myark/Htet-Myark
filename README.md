@@ -61,11 +61,12 @@
 ## 📜 Certifications
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-555555?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-AI%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/SCS-AI%20Ethics%20%26%20Governance-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20(in%20progress)-555555?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  
 </p>
 
 ---
