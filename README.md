@@ -1,10 +1,6 @@
 <!-- Banner -->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fresh+IT+graduate+from+Singapore+Polytechnic;RPA+Developer+Intern;Certified+AWS+Solutions+Architect+Associate;Open+to+software+engineering,+AI,+automation,+QA+and+cloud+roles" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Htet Myark Aung 👋</h1>
 
 <p align="center">
   <a href="https://htetmyarkaung.com"><img src="https://img.shields.io/badge/Portfolio-htetmyarkaung.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -66,24 +62,17 @@
   <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-AI%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/SCS-AI%20Ethics%20%26%20Governance-2E7D32?style=for-the-badge" />
-  
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Htet-Myark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htet-Myark&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Htet-Myark&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Htet-Myark&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-0A66C2?logo=googleassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Singapore-34A853?logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-Active-FF6B35?logo=githubactions&logoColor=white" />
 </p>
 
 ---
